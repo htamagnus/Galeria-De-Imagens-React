@@ -1,0 +1,129 @@
+[
+    {
+      "titulo": "Reyna",
+      "creditos": "Duelista",
+      "imagem": "https://t.ctcdn.com.br/mRgKyUPy2_R3INT-2DC7o2m18BY=/1024x0/smart/filters:format(webp)/i592115.jpeg",
+      "id": "1",
+      "tag": "Duelistas"
+    },
+    {
+      "titulo": "Omen",
+      "creditos": "Controlador",
+      "imagem": "https://t.ctcdn.com.br/4kw02l-EWHhoE2KVcIwjlf2fCSk=/1024x0/smart/filters:format(webp)/i592131.jpeg",
+      "id": "2",
+      "tag": "Controladores"
+    },
+    {
+      "titulo": "Sova",
+      "creditos": "Iniciador",
+      "imagem": "https://t.ctcdn.com.br/_LngJcsor4Jkwcnh6xivBNCiUMM=/1024x0/smart/filters:format(webp)/i592185.jpeg",
+      "id": "3",
+      "tag": "Iniciadores"
+    },
+    {
+      "titulo": "Raze",
+      "creditos": "Duelista",
+      "imagem": "https://t.ctcdn.com.br/mSsNlpxHFkKcfO4bMRcHSwGKYOs=/1024x0/smart/filters:format(webp)/i592113.jpeg",
+      "id": "4",
+      "tag": "Duelistas"
+    },
+    {
+      "titulo": "Viper",
+      "creditos": "Controlador",
+      "imagem": "https://t.ctcdn.com.br/Zvh-tmRi6rRFxtmNh3CuSdIQkBE=/1024x0/smart/filters:format(webp)/i592135.jpeg",
+      "id": "5",
+      "tag": "Controladores"
+    },
+    {
+      "titulo": "Sage",
+      "creditos": "Sentinela",
+      "imagem": "https://t.ctcdn.com.br/lb_MZWGBwFrUdsHZtaQTUCgcxVA=/1024x0/smart/filters:format(webp)/i592186.jpeg",
+      "id": "6",
+      "tag": "Sentinelas"
+    },
+    {
+      "titulo": "Phoenix",
+      "creditos": "Duelista",
+      "imagem": "https://t.ctcdn.com.br/AKSpevcdmPd-UOpeMzAngg6F59U=/1024x0/smart/filters:format(webp)/i592119.jpeg",
+      "id": "7",
+      "tag": "Duelistas"
+    },
+    {
+      "titulo": "Neon",
+      "creditos": "Duelista",
+      "imagem": "https://t.ctcdn.com.br/3DyBPPz5SFU-OR_XIdUdUSlTE6U=/1024x0/smart/filters:format(webp)/i592188.jpeg",
+      "id": "8",
+      "tag": "Duelistas"
+    },
+    {
+      "titulo": "Cypher",
+      "creditos": "Controlador",
+      "imagem": "https://t.ctcdn.com.br/wGpkiSxWzwCH5lLTxCKk2Omodmk=/1024x0/smart/filters:format(webp)/i592126.jpeg",
+      "id": "9",
+      "tag": "Controladores"
+    },
+    {
+      "titulo": "Astra",
+      "creditos": "Controlador",
+      "imagem": "https://t.ctcdn.com.br/wOVRxebhhY6GKgrCOJWKFGfBX6c=/1024x0/smart/filters:format(webp)/i592106.jpeg",
+      "id": "10",
+      "tag": "Controladores"
+    },
+    {
+      "titulo": "Jet",
+      "creditos": "Duelista",
+      "imagem": "https://t.ctcdn.com.br/JEllLF5id4OQSxDlRIDZnIueqNc=/1024x0/smart/filters:format(webp)/i592118.jpeg",
+      "id": "11",
+      "tag": "Duelistas"
+    },
+    {
+      "titulo": "Brimstone",
+      "creditos": "Controlador",
+      "imagem": "https://t.ctcdn.com.br/9JBpe332pUJ8WS3-9Ff2XeXlO3s=/1024x0/smart/filters:format(webp)/i592136.jpeg",
+      "id": "12",
+      "tag": "Controladores"
+    },
+    {
+      "titulo": "Fade",
+      "creditos": "Iniciador",
+      "imagem": "https://t.ctcdn.com.br/iqV4kxWjrv6x9rmDUUOf5Fae5Ic=/1024x0/smart/filters:format(webp)/i584752.jpeg",
+      "id": "13",
+      "tag": "Iniciadores"
+    },
+    {
+      "titulo": "Kayo",
+      "creditos": "Iniciador",
+      "imagem": "https://t.ctcdn.com.br/9UlLqZqhsVCXS_vhmD2eCFvcqkk=/1024x0/smart/filters:format(webp)/i592187.jpeg",
+      "id": "14",
+      "tag": "Iniciadores"
+    },
+    {
+      "titulo": "Skye",
+      "creditos": "Iniciador",
+      "imagem": "https://t.ctcdn.com.br/TlXm016M_H3HhRtmQcWDn4g_has=/1024x0/smart/filters:format(webp)/i592108.jpeg",
+      "id": "15",
+      "tag": "Iniciadores"
+    },
+    {
+      "titulo": "Breach",
+      "creditos": "Iniciador",
+      "imagem": "https://t.ctcdn.com.br/-1vI0vcdz5WtH8m3FSNDy0vCQoo=/1024x0/smart/filters:format(webp)/i592111.jpeg",
+      "id": "16",
+      "tag": "Iniciadores"
+    },
+    {
+      "titulo": "Chamber",
+      "creditos": "Sentinela",
+      "imagem": "https://t.ctcdn.com.br/lAkj1bFc6ytOiToCHn_PwGIgpzQ=/1024x0/smart/filters:format(webp)/i592102.png",
+      "id": "17",
+      "tag": "Sentinelas"
+    },
+    {
+      "titulo": "Killjoy",
+      "creditos": "Sentinela",
+      "imagem": "https://t.ctcdn.com.br/xx8pqVCVyyCbLQ-dm2dHeuryZ48=/1024x0/smart/filters:format(webp)/i592128.jpeg",
+      "id": "18",
+      "tag": "Sentinelas"
+    }
+  ]
+  
