@@ -3,5 +3,4 @@
 
 <h2>Tecnologias Utilizadas:</h2>
 <p>-React</p>
-
--Styled Components
+<p>-Styled Components</p>
