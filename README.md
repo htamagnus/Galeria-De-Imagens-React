@@ -3,3 +3,7 @@
 <ul><b>Tecnologias Utilizadas:<b></ul>
 <li>React</li>
 <li>Styled Components</li>
+
+
+https://user-images.githubusercontent.com/85269068/196242493-549e48ed-cbcd-41ec-8eaa-5d5a50488d88.mp4
+
