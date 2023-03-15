@@ -6,6 +6,7 @@ export default function Tags({ tags, filtrarFotos, setItens }) {
   return (
     <div className={styles.tags}>
       <ul className={styles.tags__lista}>
+      <li onClick={() => setItens(fotos)}>Todas</li>
         {tags.map((tag) => {
           return (
             <li key={tag} onClick={() => filtrarFotos(tag)}>
@@ -13,7 +14,6 @@ export default function Tags({ tags, filtrarFotos, setItens }) {
             </li>
           );
         })}
-        <li onClick={() => setItens(fotos)}>Todas</li>
       </ul>
     </div>
   );

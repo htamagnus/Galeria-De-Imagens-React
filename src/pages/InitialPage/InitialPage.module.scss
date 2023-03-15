@@ -6,10 +6,9 @@ main {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 2rem;
-  
+    margin-top: 2rem;  
+
     &__imagem {
-      width: 88%;
       img {
         width: 100%;
         height: 288px;
@@ -41,3 +40,27 @@ main {
     margin-top: 1rem;
   }
 
+  @media screen and (max-width: 1200px) { 
+    .principal {
+      display: none;
+      justify-content: center;
+      height: 100%;
+      margin: 0; 
+
+      &__imagem{
+        img {
+          height: 100%;
+        }
+      }
+    }
+    h1 {
+      display: none;
+    }
+    .galeria {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-left: 0;
+      margin-top: 0;
+    }
+   }

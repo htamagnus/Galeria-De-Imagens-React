@@ -26,3 +26,11 @@
     font-family: $fonte-valorant;
   }
 }
+
+@media screen and (max-width: 1200px) { 
+  .rodape {
+    &__icones {
+      display: none;
+    }
+  }
+}

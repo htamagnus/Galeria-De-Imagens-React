@@ -31,4 +31,17 @@
       }
     }
   }
-  
+  @media screen and (max-width: 1200px) {
+      .tags {
+        width: 100%;
+        &__lista { 
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          gap: 2px;
+        }
+
+      }
+      
+
+  }

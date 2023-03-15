@@ -28,3 +28,20 @@
       }
     }
 }
+
+@media screen and (max-width: 1200px) { 
+  .principal {
+    &__imagem{
+      width: 100%;
+      img {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+      }
+    }
+  }
+  h1 {
+    display: none;
+  }
+ }

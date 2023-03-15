@@ -46,4 +46,11 @@
       cursor: pointer;
     }
   }
-  
+
+@media screen and (max-width: 1200px) { 
+  .header {
+    &__input {   
+        display: none;
+    }
+  }
+}

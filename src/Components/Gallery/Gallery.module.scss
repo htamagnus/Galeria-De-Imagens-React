@@ -76,3 +76,17 @@
     font-family: $fonte-valorant;
   }
 }
+
+@media screen and (max-width: 1200px) {
+  .galeria{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    &__cards {
+      justify-content: center;
+    }
+  }
+
+}
